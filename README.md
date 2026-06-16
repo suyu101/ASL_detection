@@ -72,8 +72,6 @@ Each folder is **fully self-contained** — you can run any model independently.
  
 ## Custom Dataset
  
-> 📁 **Dataset link:** https://drive.google.com/drive/folders/1JXVaQd0Z8qY6DWtPOhDN3PChPmSnN2zq
- 
 We built a **custom dataset** of ASL gesture videos — not a public dataset.
  
 | Property | Detail |
